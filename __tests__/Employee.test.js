@@ -10,6 +10,8 @@ test('gets values from employee constructor', () => {
     expect(employeeTest.email).toBe('hiceycook@gmail.com');
 });
 
+//TEST EMPLOYEE METHODS //
+
 test('getName() returns employee name', () => {
     expect(employeeTest.getName()).toBe('Austin');
 });
