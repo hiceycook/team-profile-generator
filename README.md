@@ -18,11 +18,11 @@ This is a node.js command line application to generate a team profile to a simpl
 
 ## Media
 
-# Tests
+Tests
 
 https://user-images.githubusercontent.com/4153530/132896006-f786688d-26af-484e-9b74-149ad351e4d0.mp4
 
-# Walkthrough
+Walkthrough
 
 https://user-images.githubusercontent.com/4153530/132894310-19911cce-cde1-4648-8e09-b416b0076ba8.mp4
 
