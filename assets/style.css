@@ -1,0 +1,41 @@
+body{
+    background-color: white;
+    background-size:cover;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-size: 3rem;
+    color:#0093FF;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+header h1{
+    font-size: 5rem;
+    color:black;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+main{
+    display: flex;
+}
+
+.member-container{
+    display:flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width:300px;
+    height:300px;
+    padding:20px;
+    border-radius:20px;
+    box-sizing: border-box;
+    background: #f1f5f8;
+    box-shadow: 14px 14px 20px #cbced1, -14px -14px 20px white;
+}
+
+
+
